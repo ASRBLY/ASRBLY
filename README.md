@@ -21,4 +21,10 @@ software that makes it go away.
 
 **Skills:** TypeScript · JavaScript · Python · Next.js · React · Node.js · Docker · Linux and macOS servers · automation · trading systems · security
 
+**Support my work**
+
+If something I built saved you time or solved a problem for you, you can help me build the next one.
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ASRBLY)
+
 <sub>More projects are on the way.</sub>
